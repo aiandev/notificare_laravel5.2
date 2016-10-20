@@ -1,0 +1,14 @@
+{
+    "name": "aiandev/notificarelaravel5",
+    "description": "implementation sdk of notifica.re for laravel framework",
+    "authors": [
+        {
+            "name": "AIAN",
+            "email": "a.aian@software-dep.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/framework": "5.2.*"
+     }
+}
